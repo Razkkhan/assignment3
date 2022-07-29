@@ -4,11 +4,11 @@ font-family: 'Lobster', cursive;
 font-family: 'Nunito', sans-serif;
 }
 
-.darkish{
+.dark{
     color:#6e6c6c ;
   }
   .explore{
-    background-color: #F4FAFD;
+    background-color: #f6f9fa;
   }
   .item:after {
     content:"";
@@ -17,9 +17,9 @@ font-family: 'Nunito', sans-serif;
     bottom:0;
     left:0;
     right:0;
-    background:rgba(0,0,0,0.6);
+    background:rgba(10, 10, 10, 0.6);
   }
-  .footer-bg{
+  .footer{
     background-color: #161616;
   }
   
